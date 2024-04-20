@@ -1,0 +1,177 @@
+header{
+    height: 100%;
+}
+
+.botonInicio {
+    width: 85%;
+    height: 45px;
+    left: 8%;
+    top: 400px;
+}
+
+.logoSplash{
+    width: 300px;
+    margin-top: 80%;
+    margin-left: 15%;
+}
+
+.logoFondo{
+    color: aliceblue;
+}
+
+.fondoNaranja {
+    background-color: #e27d19;
+}
+
+.bordeMenu {
+    box-shadow: 0px 0px 10px;
+    top: 100%;
+}
+
+.iconoMenuLateral{
+    position: absolute;
+    left: 25px;
+    top: 25px;
+    font-size: 2.0rem !important; 
+}
+
+.iconoNotificacion{
+    position: absolute;
+    left: 88%;
+    top: 25px;
+    font-size: 2.0rem !important; 
+}
+
+.nombreUsuario{
+    position: absolute;
+    left: 23%;
+    top: 28px;
+    font-size: 23px !important;
+}
+
+.roboto-bold {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.manos{
+    position: absolute;
+    height: 27px;
+    top: 30px;
+    left: 99%;
+    border-radius: 50%;
+}
+
+.cajamenu{
+    width: 30px;
+    height: 100%;
+    background-color: #e27d19;
+    flex-direction: column;
+}
+
+.selectorDashboard{
+    position: absolute;
+    height: 27px;
+    top: 80px;
+    left: 8%;
+    border-radius: 525px !important;
+    background-color: #e27d19 !important;
+    height: 35px;
+}
+
+.selectorDashboard2{
+    position: absolute;
+    height: 27px;
+    top: 80px !important;
+    left: 10%;
+    border-radius: 525px !important;
+    background-color: #a5a5a5 !important;
+    height: 35px;
+}
+
+.selectorDashboard3{
+    position: absolute;
+    height: 27px;
+    top: 80px !important;
+    left: 12%;
+    border-radius: 525px !important;
+    background-color: #a5a5a5 !important;
+    height: 35px;
+}
+
+.iconoBusqueda{
+    position: absolute;
+    height: 27px;
+    top: 80px !important;
+    left: 100%;
+    font-size: 35px !important;
+}
+
+.contenedorPresupuestoEjecutado{
+    position: absolute;
+    left: 10%;
+    top: 18%;
+    height: 140px;
+    width: 70%;
+    background-color: #6ee65b;
+    border-radius: 20px !important;
+    box-shadow: 0px 10px 50px 0.5px;
+}
+
+.contenedorPersonal{
+    position: absolute;
+    left: 10%;
+    top: 40%;
+    height: 140px;
+    width: 95%;
+    background-color: #ffffff;
+    border-radius: 20px !important;
+    border: rgb(203, 203, 203) 0.5px solid;
+}
+
+.iconoTurno{
+    position: absolute;
+    font-size: 25px !important;
+    left: 4%;
+    top: 7%;
+}
+
+.tituloEmpleado{
+    position: absolute;
+    font-size: 15px !important;
+    left: 15%;
+    top: 8%;
+    font-weight: 700;
+}
+
+.iconoToque{
+    position: absolute;
+    font-size: 25px !important;
+    left: 88%;
+    top: 8%;
+}
+
+.fotoTurno{
+    position: absolute;
+    height: 27px;
+    top: 45px;
+    left: 3%;
+    border-radius: 50%;
+}
+
+.nombreEmpleado{
+    position: absolute;
+    font-size: 15px !important;
+    left: 15%;
+    top: 28%;
+    font-weight: 700;
+}
+
+.documentoEmpleado{
+    position: absolute;
+    font-size: 15px !important;
+    left: 15%;
+    top: 40%;
+    font-weight: 100;
+}
